@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shashi Ranjan Gupta - 🎓 MCA Student at IIIT Bhopal<br>💻 Aspiring Software Engineer | Backend & Full-Stack Developer<br><br>👨‍💻 About Me<br><br>🌱 Currently learning MERN Stack Development and Backend Engineering.<br><br>💡 Interested in building practical web applications and solving real-world problems.<br><br>🔭 Working on full-stack projects to improve my development skills.<br><br>🧠 Learning C++ and Data Structures & Algorithms to strengthen my problem-solving skills.<br><br>🎯 Focused on becoming a better software engineer through continuous learning and hands-on experience.
+👋 Hi, I'm Shashi Ranjan Gupta - 🎓 MCA Student at IIIT Bhopal<br>💻 Aspiring Software Engineer | Backend & Full-Stack Developer<br><br><br>🌱 Currently learning MERN Stack Development and Backend Engineering.<br><br>💡 Interested in building practical web applications and solving real-world problems.<br><br>🔭 Working on full-stack projects to improve my development skills.<br><br>🧠 Learning C++ and Data Structures & Algorithms to strengthen my problem-solving skills.<br><br>🎯 Focused on becoming a better software engineer through continuous learning and hands-on experience.
 
 
 ## 🌐 Socials:
